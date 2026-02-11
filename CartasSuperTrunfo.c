@@ -59,9 +59,9 @@ int main() {
                 printf("Qual a quantidade de pontos turisticos a carta 2 possui: ");
                     scanf("%d", &Pontos_turisticos2);
 
-  // Área para exibição dos dados da cidade
+  // Área para exibição dos dados de cada carta
 
-                    // espaço para aparecer as cartas 
+                    // espaço antes de aparecer as cartas 
         printf("\n\n\n");
 
 
