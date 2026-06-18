@@ -114,13 +114,13 @@ int main() {
 
 // Carta 2
             printf("__ Carta 2 __\n");
-                printf("População: carta 1 venceu (%d)\n", Populacao2 > Populacao1);
-                printf("Área: carta 1 venceu (%d)\n", Area2 > Area1);
-                printf("PIB: carta 1 venceu (%d)\n", PIB2 > PIB1);
-                printf("Número de pontos turisticos: carta 1 venceu (%d)\n", Pontos_turisticos2 > Pontos_turisticos1);
-                printf("Densidade Populacional: carta 1 venceu (%d)\n", Densipopulacional2 < Densipopulacional1);
-                printf("PIB per capita: carta 1 venceu (%d)\n", PIBpercapita2 > PIBpercapita1);
-                printf("Super poder: carta 1 venceu (%d)\n", Superpoder2 > Superpoder1);
+                printf("População: carta 2 venceu (%d)\n", Populacao2 > Populacao1);
+                printf("Área: carta 2 venceu (%d)\n", Area2 > Area1);
+                printf("PIB: carta 2 venceu (%d)\n", PIB2 > PIB1);
+                printf("Número de pontos turisticos: carta 2 venceu (%d)\n", Pontos_turisticos2 > Pontos_turisticos1);
+                printf("Densidade Populacional: carta 2 venceu (%d)\n", Densipopulacional2 < Densipopulacional1);
+                printf("PIB per capita: carta 2 venceu (%d)\n", PIBpercapita2 > PIBpercapita1);
+                printf("Super poder: carta 2 venceu (%d)\n", Superpoder2 > Superpoder1);
 
 return 0;
 } 
